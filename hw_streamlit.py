@@ -5,6 +5,7 @@ import statistics
 import plotly.express as px
 import numpy as np 
 import matplotlib.pyplot as plt
+import requirements.txt pip
 
 df_mean_rolling=pd.DataFrame()
 df_stat=pd.DataFrame(columns=['city','season','mean_t','std_t'])
