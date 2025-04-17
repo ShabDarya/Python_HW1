@@ -1,2 +1,2 @@
-# Python_HW1
-Выполненное домашнее задание по предмету Прикладной Python
+# Streamlit currentc temperature
+Streamlit проект по получению текущей погоды.
